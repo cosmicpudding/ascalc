@@ -2,8 +2,8 @@
 Will calculate start/end times for sources given a time period. 
 
 # Input
-Source text file (specified in command line)
-Start date/time, duration in hours (specified in Python script)
+- Source text file (specified in command line)
+- Start date/time, duration in hours (specified in Python script)
 
 # To run
 ```
