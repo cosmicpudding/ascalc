@@ -1,6 +1,9 @@
 # APERTIF SOURCE CALCULATOR
-Will calculate start/end times for sources given a time period
-Input: source text file, start date/time, duration in hours
+Will calculate start/end times for sources given a time period. 
+
+# Input
+Source text file (specified in command line)
+Start date/time, duration in hours (specified in Python script)
 
 # To run
 ```
